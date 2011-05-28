@@ -1,0 +1,13 @@
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\Bin\Debug\ApplicationIcon.png
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\Bin\Debug\Background.png
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\Bin\Debug\PhoneApplication.dll
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\Bin\Debug\PhoneApplication.pdb
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\Bin\Debug\AppManifest.xaml
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\Bin\Debug\PhoneApplication.xap
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\obj\Debug\ResolveAssemblyReference.cache
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\obj\Debug\App.g.i.cs
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\obj\Debug\MainPage.g.i.cs
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.g.resources
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.dll
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\obj\Debug\PhoneApplication.pdb
+c:\users\kalarani.corporate\documents\visual studio 2010\Projects\PhoneApplication\PhoneApplication\obj\Debug\XapCacheFile.xml
